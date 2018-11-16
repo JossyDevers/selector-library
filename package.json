@@ -1,0 +1,16 @@
+{
+  "name": "selector-library",
+  "version": "1.0.6",
+  "description": "Library to select elements the jQuery way, without needing to import all the jQuery stuff",
+  "main": "selector.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautemo/selector-library.git"
+  },
+  "author": "Gaute Meek Olsen (https://gaute.app)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gautemo/selector-library/issues"
+  },
+  "homepage": "https://github.com/gautemo/selector-library#readme"
+}

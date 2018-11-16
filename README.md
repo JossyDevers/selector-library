@@ -1,4 +1,6 @@
 # selector-library
+This is a example library used for the purpose of the developer blog https://gaute.app/dev-blog/npm-publish, demonstrating how to publish a NPM module and through a CDN.
+
 Library to select elements the jQuery way, without needing to import all the jQuery stuff
 
 ## Installation
